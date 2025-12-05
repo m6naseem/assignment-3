@@ -72,3 +72,54 @@ body {
   margin-left: 175px;
    color: #8CEDD1;
 }
+/* === Second Section === */
+.info-box {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0px auto 0 auto;  /* centers the rectangle and adds space above */
+    background-color: #9A9300;
+    padding: 80px;
+    border-radius: 20px;
+    backdrop-filter: blur(5px);
+  margin-right: 10px; 
+}
+
+.info-box h2 {
+    font-size: 32px;
+    color: #8CEDD1;
+    margin-bottom: -20px;
+    text-align: center;
+}
+
+.info-box h3 {
+    font-size: 20px;
+    color: #BDE9C8;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.info-box p {
+  margin-top: 50px;
+    color: white;
+    line-height: 1.5;
+    margin-bottom: 70px;
+  text-align: left;
+  margin-left: 100px;
+  font-family: "Gabarito", sans-serif;
+  font-weight: 400; 
+}
+
+.img1-row {
+    display: flex;
+    flex-wrap: wrap;
+  width: 100%;
+}
+
+.img1-row img {
+    width: 80%;
+height: 260px;
+    border-radius: 12px;
+    object-fit: cover;
+  margin-top: -350px;
+  margin-left: 600px;
+}
