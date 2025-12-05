@@ -21,7 +21,7 @@ body {
     align-items: center;
     padding: 350px 0px;
   margin-top: -600px;
-  margin-left: 120px;
+  margin-left: 95px;
 }
 
 .main-nav ul {
@@ -47,8 +47,8 @@ body {
 /* === Hero Section === */
 
 .hero-section {
-    width: 100%;
-    height: 800px; /* adjust based on your mockup */
+    width: 110%;
+    height: 810px; /* adjust based on your mockup */
     background-image: url("Background_img.png");
     background-size: cover;
     background-position: center;
@@ -60,7 +60,7 @@ body {
     font-family: "Tilt Warp", sans-serif;
     font-size: 70px;
     margin: 0;
-  margin-left: 190px;
+  margin-left: 185px;
    color: #ADFFC0;
 }
 
