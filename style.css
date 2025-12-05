@@ -123,3 +123,51 @@ height: 260px;
   margin-top: -350px;
   margin-left: 600px;
 }
+/* === Third Section === */
+.green-section {
+  background-color: #527C5C;
+  padding: 40px;
+  border-radius: 20px;
+  width: 85%;
+  margin: 50px auto;
+  box-sizing: border-box;
+}
+
+/* Title – Tilt Warp */
+.section-title {
+  font-family: "Tilt Warp", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  margin: 0 0 10px;
+  color: #C9EBD3; /* light green tint like your example */
+}
+
+/* Subtitle – Gabarito */
+.section-subtitle {
+  font-family: "Gabarito", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  margin: 0 0 20px;
+  color: #C9EBD3;
+}
+
+/* Paragraph – Gabarito */
+.section-paragraph {
+  font-family: "Gabarito", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #E3F4DF;
+  max-width: 900px;
+}
+
+/* Two Images Side-by-Side */
+.image-row {
+  display: flex;
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.archive-img {
+  width: 45%;
+  border-radius: 12px;
+}
