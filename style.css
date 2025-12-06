@@ -272,3 +272,77 @@ height: 260px;
   border-radius: 4px;
   margin-top: 25px;
 }
+
+/* Food & Places CSS Style Rules */
+/* Archive Section */
+.archive-section {
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Section Title */
+.archive-main-title {
+    font-family: "Tilt Warp", sans-serif;
+    font-size: 36px;
+    color: #EEE982;
+    margin-bottom: 30px;
+}
+
+/* Green container */
+.archive-container {
+    background-color: #527C5C;
+    border-radius: 20px;
+    padding: 40px 20px;
+    margin-bottom: 50px;
+}
+
+/* Container title */
+.archive-container-title {
+    font-family: "Tilt Warp", sans-serif;
+    font-size: 28px;
+    color: #EEE982;
+    margin-bottom: 30px;
+}
+
+/* Row of images */
+.archive-row {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+/* Single item */
+.archive-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%; /* three items per row */
+}
+
+/* Image styling */
+.archive-image {
+    width: 100%;
+    border-radius: 12px;
+    margin: 10px 0;
+    object-fit: cover;
+}
+
+/* Title above image */
+.item-title {
+    font-family: "Gabarito", sans-serif;
+    font-size: 20px;
+    color: #8CEDD1;
+    margin-bottom: 10px;
+}
+
+/* Subtitle below image */
+.item-subtitle {
+    font-family: "Gabarito", sans-serif;
+    font-size: 18px;
+    color: #8CEDD1;
+    margin-top: 5px;
+}
