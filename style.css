@@ -127,14 +127,10 @@ height: 260px;
 .green-section {
   background-color: #527C5C;
   padding: 20px;
-  width: 1400px;
-  max-width: 1400px;
-  border-radius: 20px;
+  width: 1500px;
+  max-width: 1500px;
   height: 90%;
-  margin: 50px auto;
   box-sizing: border-box;
-  margin-top: 0px;
-  margin-right: 40px;
 }
 
 /* Title – Tilt Warp */
@@ -155,10 +151,10 @@ height: 260px;
 
 /* Paragraph – Gabarito */
 .section-paragraph {
-   margin-top: 70px;
+   margin-top: 100px;
     color: white;
     line-height: 1.5;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
   text-align: left;
   margin-left: 100px;
   font-family: "Gabarito", sans-serif;
@@ -170,7 +166,7 @@ height: 260px;
 .image1 {
   width: 35%;
   border-radius: 12px;
-  margin-left: 500px;
+  margin-left: 600px;
   margin-top: -350px;
   rotate: 9deg;
 }
@@ -178,7 +174,7 @@ height: 260px;
 .image2 {
   margin-top: -400px;
   width: 45%;
-  margin-left: 630px;
+  margin-left: 800px;
   border-radius: 12px;
 }
 /* Section 3 */
