@@ -127,14 +127,14 @@ height: 260px;
 .green-section {
   background-color: #527C5C;
   padding: 20px;
-  width: 1200px;
-  max-width: 1200px;
+  width: 1500px;
+  max-width: 1400px;
   border-radius: 20px;
   height: 90%;
   margin: 50px auto;
   box-sizing: border-box;
   margin-top: 0px;
-  margin-right: 70px;
+  margin-right: 40px;
 }
 
 /* Title – Tilt Warp */
