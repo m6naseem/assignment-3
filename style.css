@@ -127,7 +127,7 @@ height: 260px;
 .green-section {
   background-color: #527C5C;
   padding: 20px;
-  width: 100%;
+  width: 1200px;
   max-width: 1200px;
   border-radius: 20px;
   height: 90%;
@@ -221,7 +221,7 @@ height: 260px;
   background-color: #4F7A5A;
   padding: 30px;
   width: 200px;
-  color: #3D5F4A;
+  color: white;
   font-family: "Gabarito", sans-serif;
   text-align: center;
   border-radius: 14px;
