@@ -127,14 +127,14 @@ height: 260px;
 .green-section {
   background-color: #527C5C;
   padding: 20px;
-  width: 120%;
+  width: 100%;
   max-width: 1200px;
   border-radius: 20px;
   height: 90%;
   margin: 50px auto;
   box-sizing: border-box;
   margin-top: 0px;
-  margin-right: 40px;
+  margin-right: 70px;
 }
 
 /* Title – Tilt Warp */
@@ -221,7 +221,7 @@ height: 260px;
   background-color: #4F7A5A;
   padding: 30px;
   width: 200px;
-  color: #F8F7C4;
+  color: #3D5F4A;
   font-family: "Gabarito", sans-serif;
   text-align: center;
   border-radius: 14px;
